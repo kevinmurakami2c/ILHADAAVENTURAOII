@@ -1,1 +1,2 @@
 #ILHADAAVENTURAOII
+print ("Hello, world!")
